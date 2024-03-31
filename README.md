@@ -1,2 +1,2 @@
 # movie-recommender
-Movie recommender system, a basic project for ML
+A content based movie recommender system using cosine similarity
